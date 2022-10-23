@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "tugas3_120140035",
+    "slug": "tugas3_120140035",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.jodyfabianlingga.tugas3_120140035"
+    }
+  },
+  "name": "tugas3_120140035"
+}
